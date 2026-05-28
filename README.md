@@ -55,7 +55,7 @@ The dataset is perfectly balanced with 33,333 positive and 33,333 negative revie
 Most reviews are short to medium length. The character distribution peaks around 40-80 characters, and the word distribution peaks around 5-15 words, both following a right-skewed pattern typical of user-generated content.
 
 <p align="center">
-  <img src="images/review_length_distribution.png" width="800" alt="Review Length Distribution"/>
+  <img src="images/Screenshot_29-5-2026_01751_.jpeg" width="800" alt="Review Length Distribution"/>
 </p>
 
 ### Word Cloud (After Preprocessing)

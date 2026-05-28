@@ -148,7 +148,7 @@ ComplementNB was chosen over MultinomialNB because it is specifically designed f
 ### Confusion Matrix
 
 <p align="center">
-  <img src="images/confusion_matrix.png" width="600" alt="Confusion Matrix"/>
+  <img src="images/Screenshot_29-5-2026_01846_.jpeg" width="600" alt="Confusion Matrix"/>
 </p>
 
 | | Predicted Negative | Predicted Positive |

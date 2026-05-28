@@ -47,7 +47,7 @@ The balanced class distribution makes evaluation metrics reliable and avoids any
 The dataset is perfectly balanced with 33,333 positive and 33,333 negative reviews.
 
 <p align="center">
-  <img src="images/label_distribution.png" width="600" alt="Label Distribution"/>
+  <img src="images/Screenshot_29-5-2026_0176_.jpeg" width="600" alt="Label Distribution"/>
 </p>
 
 ### Review Length Distribution

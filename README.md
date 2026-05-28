@@ -204,11 +204,11 @@ pip install pandas numpy matplotlib seaborn nltk scikit-learn wordcloud arabic-r
 arabic-reviews-nlp/
 |-- Arabic_Sentiment_Analysis.ipynb   # Main notebook
 |-- images/                           # Visualizations used in README
-|   |-- label_distribution.png
-|   |-- review_length_distribution.png
-|   |-- wordcloud.png
-|   |-- confusion_matrix.png
-|   |-- evaluation_metrics.png
+|   |-- label_distribution
+|   |-- review_length_distribution
+|   |-- wordcloud
+|   |-- confusion_matrix
+|   |-- evaluation_metrics
 |-- LICENSE
 |-- README.md
 ```

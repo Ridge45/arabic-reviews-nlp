@@ -63,7 +63,8 @@ Most reviews are short to medium length. The character distribution peaks around
 The word cloud displays the most frequent Arabic words after full preprocessing — stopwords removed, prefixes split, and text normalized. Prominent words reflect the review domains: hotels, books, and products.
 
 <p align="center">
-  <img src="images/wordcloud.png" width="800" alt="Word Cloud After Preprocessing"/>
+  <img src="Screenshot_29-5-2026_01817_.jpeg
+" width="800" alt="Word Cloud After Preprocessing"/>
 </p>
 
 ---

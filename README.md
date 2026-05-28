@@ -142,7 +142,7 @@ ComplementNB was chosen over MultinomialNB because it is specifically designed f
 | F1-Score  | 85.56%  |
 
 <p align="center">
-  <img src="images/evaluation_metrics.png" width="700" alt="Final Evaluation Metrics"/>
+  <img src="images/Screenshot_29-5-2026_01911_.jpeg" width="700" alt="Final Evaluation Metrics"/>
 </p>
 
 ### Confusion Matrix
